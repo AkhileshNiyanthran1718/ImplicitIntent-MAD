@@ -113,13 +113,18 @@ Registeration Number : 212225220006
 ## OUTPUT
 <img width="959" height="560" alt="Screenshot 2026-11-01 220104" src="https://github.com/user-attachments/assets/ad9ab74d-db28-4809-9a29-13daf2078594" />
 
+
 <img width="1641" height="958" alt="Android Studio Preview with onPause Toast" src="https://github.com/user-attachments/assets/038f94d4-fcc9-4e2a-a866-1ee90f2acf34" />
+
 
 <img width="1641" height="958" alt="Android Studio Lifecycle Toast Demo" src="https://github.com/user-attachments/assets/b303e379-5883-4b14-9e35-1b26da1bdf7f" />
 
+
 <img width="959" height="562" alt="Screenshot 2026-11-01 214808" src="https://github.com/user-attachments/assets/63a3ea3d-91f5-49f5-a3d1-5a1c367087d1" />
 
+
 <img width="959" height="557" alt="Screenshot 2026-11-01 214910" src="https://github.com/user-attachments/assets/4d3192f3-dabc-4eb5-8711-1ec0bdc6ddd1" />
+
 
 <img width="957" height="554" alt="image" src="https://github.com/user-attachments/assets/8a5e6060-6128-46db-a03b-7d5c328befc5" />
 
